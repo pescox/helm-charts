@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-16T06:48:49.029901922Z"
+    description: A Helm chart for Kubernetes
+    digest: fe947ef90b634f3dbae44726982bf72e7d501e033601d31ebd8acc0d83bddef0
+    name: myapp
+    type: application
+    urls:
+    - https://github.com/pescox/helm-charts/releases/download/myapp-1.0.1/myapp-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-06-16T06:48:49.029908222Z"
